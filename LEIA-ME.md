@@ -1,4 +1,4 @@
-# Guia de instalação Tesseract OCR - PT-BR
+# Guia de instalação Tesseract OCR - PT-BR / [EN](https://github.com/FoxTechL/tess_ocr_guide/blob/main/README.md)
 ## Motivação
 Eu tive uma certa dificuldade em reunir todas as informações em um só lugar de começo,
 com muitos códigos fonte a compilar livrarias acabei optando por criar meu próprio script
