@@ -40,7 +40,7 @@ Todos os registros estão armazenados na pasta /log dentro da raiz.
 		SE VOCÊ USAR ESTE SOFTWARE EM UM VÍDEO OU MATERIAL EDUCACIONAL
 		VOCÊ DEVE ME DAR OS CRÉDITOS CITANDO:
 		
-		Fonte: https://github.com/FoxTechL, LUCAS V. MEDEIROS, 2023.
+		Fonte: https://github.com/LucasMedeiros-dev, LUCAS V. MEDEIROS, 2023.
 		
 		ESTE SOFTWARE É FORNECIDO COMO ESTÁ, SEM ABSOLUTAMENTE NENHUMA GARANTIA EXPRESSA
 		OU IMPLÍCITA. QUALQUER USO É POR SUA CONTA E RISCO.
