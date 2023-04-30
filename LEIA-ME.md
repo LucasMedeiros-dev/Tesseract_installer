@@ -1,43 +1,46 @@
-# Tesseract OCR Installation Guide - EN
-## A brief description
-I had a lot of trouble installing Tesseract, so I decided to streamline the process creating a simple script that auto installs it.
-## Requirements
-You will need git installed to run the script.
-Instructions below:
+# Guia de instalação Tesseract OCR - PT-BR / [EN](https://github.com/FoxTechL/tess_ocr_guide/blob/main/README.md)
+## Motivação
+Eu tive uma certa dificuldade em reunir todas as informações em um só lugar de começo,
+com muitos códigos fonte a compilar livrarias acabei optando por criar meu próprio script
+para agilizar esse processo.
+## Requerimentos
+Você precisa ter o git instalado para utilizar este script.
+Instruções abaixo:
 ```
 sudo apt-get install git -y
 ```
-## How to use
+## Como usar
 ```
 git clone https://github.com/FoxTechL/tess_ocr_guide
 cd tess_ocr_guide
 chmod +x install_tesseract.sh
 ./install_tesseract.sh
 ```
-# Tested plataforms
+# Plataformas testadas
 ```
 debian 11
 kernel = 5.15.104-1-pve
 Python3 = 3.9.2
 ```
-# Notes
-If you are having a hard time using it with sudo, try using sudo -i then execute the file.
+# Notas
+Se houver algum problema com relação a permissões de usuário tente usar sudo -i e depois executar o arquivo.
 ```
 sudo -i 
 ./install_tesseract.sh
 ```
-Feel free to send questions in the issues tab.
+Sintam-se livres para enviar perguntas e sugestões de melhorias na aba de issues.
 
-It may take about 20 - 40 minutes depending on your hardware since it's building from source.
-Please be patient.
+Esse script deve demorar de 20 - 40 minutos a depender da sua máquina. Ele compila do código fonte.
+Por favor seja paciente e aguarde.
 
-logs are stored in the /log directory.
+Todos os registros estão armazenados na pasta /log dentro da raiz.
 
-# Disclaimer
-		IF YOU USE THIS SOFTWARE IN A VIDEO OR EDUCATIONAL MATERIAL
-		YOU MUST CREDIT ME BY CITING:
+# Alerta
 		
-		Source: https://github.com/FoxTechL, LUCAS V. MEDEIROS, 2023.
+		SE VOCÊ USAR ESTE SOFTWARE EM UM VÍDEO OU MATERIAL EDUCACIONAL
+		VOCÊ DEVE ME DAR OS CRÉDITOS CITANDO:
 		
-		THIS SOFTWARE IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
-		OR IMPLIED.  ANY USE IS AT YOUR OWN RISK. 
+		Fonte: https://github.com/FoxTechL, LUCAS V. MEDEIROS, 2023.
+		
+		ESTE SOFTWARE É FORNECIDO COMO ESTÁ, SEM ABSOLUTAMENTE NENHUMA GARANTIA EXPRESSA
+		OU IMPLÍCITA. QUALQUER USO É POR SUA CONTA E RISCO.
