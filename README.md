@@ -37,7 +37,7 @@ logs are stored in the /log directory.
 		IF YOU USE THIS SOFTWARE IN A VIDEO OR EDUCATIONAL MATERIAL
 		YOU MUST CREDIT ME BY CITING:
 		
-		Source: https://github.com/FoxTechL, LUCAS V. MEDEIROS, 2023.
+		Source: https://github.com/LucasMedeiros-dev, LUCAS V. MEDEIROS, 2023.
 		
 		THIS SOFTWARE IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
 		OR IMPLIED.  ANY USE IS AT YOUR OWN RISK. 
