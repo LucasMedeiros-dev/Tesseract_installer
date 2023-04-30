@@ -37,7 +37,7 @@ python3 get-pip.py | tee ../logs/getpip.log # get python-pip
 rm -f get-pip.py # removes get-pip.py
 pip install -r requirements.txt | tee ../logs/pip_requirements.log # Install all the requirements from Tesstrain
 
-cd.. # exit tesseract folder
+cd .. # exit tesseract folder
 
 echo Installation complete!
 echo
