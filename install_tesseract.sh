@@ -41,5 +41,5 @@ cd .. # exit tesseract folder
 
 echo Installation complete!
 echo
-echo Made with love by Lucas Medeiros https://github.com/FoxTechL
+echo Made with love by Lucas Medeiros https://github.com/LucasMedeiros-dev
 
