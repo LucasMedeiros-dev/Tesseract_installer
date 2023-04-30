@@ -1,4 +1,4 @@
-# Tesseract OCR Installation Guide - EN
+# Tesseract OCR Installation Guide - EN / [PT-BR](https://github.com/FoxTechL/tess_ocr_guide/blob/main/LEIA-ME.md)
 ## A brief description
 I had a lot of trouble installing Tesseract, so I decided to streamline the process creating a simple script that auto installs it.
 ## Requirements
