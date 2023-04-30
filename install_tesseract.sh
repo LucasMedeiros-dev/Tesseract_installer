@@ -2,7 +2,7 @@
 
 mkdir logs
 
-apt-get install make wget bash unzip zip bc curl g++ autoconf automake libtool pkg-config libpng-dev libjpeg62-turbo-dev libtiff5-dev zlib1g-dev libwebpdemux2 libwebp-dev libopenjp2-7-dev libgif-dev libarchive-dev libcurl4-openssl-dev libicu-dev libpango1.0-dev libcairo2-dev libleptonica-dev xzgv git -y 2>&1 | tee logs/install.log # Installs all the needed dependencies.
+apt-get install make wget bash unzip zip bc curl g++ autoconf python3 automake libtool pkg-config libpng-dev libjpeg62-turbo-dev libtiff5-dev zlib1g-dev libwebpdemux2 libwebp-dev libopenjp2-7-dev libgif-dev libarchive-dev libcurl4-openssl-dev libicu-dev libpango1.0-dev libcairo2-dev libleptonica-dev xzgv git -y 2>&1 | tee logs/install.log # Installs all the needed dependencies.
 
 git clone https://github.com/Microsoft/vcpkg.git 2>&1 | tee logs/getvcpkg.log # Get's the latest version of vcpkg
 cd vcpkg # Enter vcpkg
@@ -41,5 +41,5 @@ cd.. # exit tesseract folder
 
 echo Installation complete!
 echo
-echo Made with love by Lucas Medeiros
+echo Made with love by Lucas Medeiros https://github.com/FoxTechL
 
