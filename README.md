@@ -1,4 +1,4 @@
-# Tesseract OCR Installation Guide - EN / [PT-BR](https://github.com/FoxTechL/tess_ocr_guide/blob/main/LEIA-ME.md)
+# Tesseract OCR Installation Guide - EN / [PT-BR](https://github.com/LucasMedeiros-dev/Tesseract_installer/blob/main/LEIA-ME.md)
 ## A brief description
 I had a lot of trouble installing Tesseract, so I decided to streamline the process creating a simple script that auto installs it.
 ## Requirements
@@ -9,8 +9,8 @@ sudo apt-get install git -y
 ```
 ## How to use
 ```
-git clone https://github.com/FoxTechL/tess_ocr_guide
-cd tess_ocr_guide
+git clone https://github.com/LucasMedeiros-dev/Tesseract_installer
+cd Tesseract_installer
 chmod +x install_tesseract.sh
 ./install_tesseract.sh
 ```
